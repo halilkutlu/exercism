@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+a.out
+*.out
+*.exe
+
+# Libraries
+*.a
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
+*.d
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Exercism metadata
+**/.exercism/metadata.json
